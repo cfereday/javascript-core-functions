@@ -1,4 +1,4 @@
-myArray = require('../helpers');
+myArray = require('../../../helpers');
 
 const reducerMultiplyByTwo = (accumulator, currentValue) => {
     return accumulator + (currentValue * 2);

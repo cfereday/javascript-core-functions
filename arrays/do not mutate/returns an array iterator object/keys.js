@@ -1,4 +1,4 @@
-myArray = require('../helpers');
+myArray = require('../../../helpers');
 
 let result;
 const executor = () => {
@@ -6,7 +6,7 @@ const executor = () => {
     console.log('The original array:', myArray);
     console.log('Example result: just calling keys() this is the iterator object returned', result = myArray.keys());
     for (const key of result) {
-        console.log('Example result: running a for loop over all the contents of the iterator we got from calling keys() on the array', typeof key);
+        console.log('Example result: running a for loop over all the contents of the iterator we got from calling keys() on the array',  key);
     }
 };
 

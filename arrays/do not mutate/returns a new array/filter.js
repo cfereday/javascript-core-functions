@@ -1,4 +1,4 @@
-myArray = require('../helpers');
+myArray = require('../../../helpers');
 const isEven = (currentValue) => currentValue % 2 === 0;
 const executor = () => {
     console.log('Description: Array.filter(): immutable - creates a new array with all the elements which return true against the function');

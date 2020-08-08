@@ -1,4 +1,4 @@
-myArray = require('../helpers');
+myArray = require('../../../helpers');
 let myNestedArray = [[1,2], [3, 4], [5, 6]];
 
 const reducerMultiplyByTwo = (accumulator, currentValue) => {

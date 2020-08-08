@@ -1,4 +1,4 @@
-myArray = require('../helpers');
+myArray = require('../../../helpers');
 
 const isEven = (element) => element % 2 === 0;
 

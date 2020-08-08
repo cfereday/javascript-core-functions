@@ -1,4 +1,4 @@
-myArray = require('../helpers');
+myArray = require('../../../helpers');
 
 const executor = () => {
     console.log('Description: Array.copyWithin(): mutates/ non-inmutable -> makes shallow copies part of an array to another location in the same array and returns it without modifying its length.');

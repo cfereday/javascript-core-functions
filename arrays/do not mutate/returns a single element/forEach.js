@@ -1,4 +1,4 @@
-myArray = require('../helpers');
+myArray = require('../../../helpers');
 let result;
 let resultArray = [];
 const multiplyByTwo = (currentValue) => {

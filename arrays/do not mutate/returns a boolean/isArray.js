@@ -1,4 +1,4 @@
-myArray = require('../helpers');
+myArray = require('../../../helpers');
 
 const executor = () => {
     console.log('Description: Array.isArray(): immutable because it returns a boolean to say if its an array or not');

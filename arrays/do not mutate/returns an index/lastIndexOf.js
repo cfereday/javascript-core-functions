@@ -1,4 +1,4 @@
-myArray = require('../helpers');
+myArray = require('../../../helpers');
 
 const executor = () => {
     console.log('my original array:', myArray);
