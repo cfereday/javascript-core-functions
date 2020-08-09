@@ -7,4 +7,4 @@ Basically it goes through all the Mozilla Mdn docs and has a little example of e
 ## How to 'run' it?
 Currently this uses Node version 12. 
 
-Run any of the files with `node filename.js` from the root to see the output of a given example. e.g. `node arrays/from.js`
+Run any of the files with `node filename.js` from the root to see the output of a given example. e.g. `node arrays/do not mutate/returns a boolean/every.js`
