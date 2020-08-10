@@ -1,4 +1,4 @@
-myArray = require('../../../helpers');
+myArray = require('../../../../helpers');
 
 const executor = () => {
     console.log('Description: Array.includes(): immutable because it returns a boolean to say if the array includes whatever element you might pass it');
