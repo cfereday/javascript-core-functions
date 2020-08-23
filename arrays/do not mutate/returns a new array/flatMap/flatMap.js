@@ -1,4 +1,4 @@
-myArray = require('../../../helpers');
+myArray = require('../../../../helpers');
 const isEven = (currentValue) => currentValue % 2 === 0;
 
 const executor = () => {
