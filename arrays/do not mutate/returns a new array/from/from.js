@@ -1,4 +1,4 @@
-myArray = require('../../../helpers');
+myArray = require('../../../../helpers');
 
 const fromChars = Array.from('splitmeword');
 const fromAnExistingArrayWhoseElementsareThenDoubled = Array.from(myArray, x => x * 2);
